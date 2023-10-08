@@ -451,8 +451,10 @@ int main(int argc, char **argv)
 ```
 ## Output:
 ### 1. Float Matrix Addition:
-![Output](OP.png)
+![OP](https://github.com/Rajeshkannan-Muthukumar/PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks.-Adapt-it-to-integer-matrix-addition.-/assets/93901857/13cd1bdd-0e19-47b7-9470-5b6624ee81f6)
+
 ### 2. Integer Matrix Addition:
-![Output](OP1.png)
+![OP1](https://github.com/Rajeshkannan-Muthukumar/PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks.-Adapt-it-to-integer-matrix-addition.-/assets/93901857/738ca501-e347-4201-803b-e7effea084aa)
+
 ## Result:
 Thus the program to perform PCA matrix summation with a 2D grid and 2D blocks and adapting it to integer matrix addition has been successfully executed.
